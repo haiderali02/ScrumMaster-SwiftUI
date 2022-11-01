@@ -9,6 +9,7 @@ import Foundation
 import SwiftUI
 
 enum Theme: String {
+    
     case bubblegum
     case buttercup
     case indigo
